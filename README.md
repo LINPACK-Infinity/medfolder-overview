@@ -6,11 +6,14 @@ It is designed for technical evaluation and research workflows, not for diagnosi
 
 ## Screenshots
 
-<img width="1006" height="1126" alt="Bildschirmfoto 2026-04-13 um 12 33 52" src="https://github.com/user-attachments/assets/8cf20657-ebd0-47d5-977f-e9b889b93475" />
+### Processing workflow
+<img width="1006" height="1126" alt="Processing workflow" src="https://github.com/user-attachments/assets/8cf20657-ebd0-47d5-977f-e9b889b93475" />
 
-<img width="1006" height="1126" alt="Bildschirmfoto 2026-04-13 um 12 34 25" src="https://github.com/user-attachments/assets/292d8c67-7912-4035-b616-dbd55edf37ed" />
+### Structured review view
+<img width="1006" height="1126" alt="Structured review view" src="https://github.com/user-attachments/assets/292d8c67-7912-4035-b616-dbd55edf37ed" />
 
-<img width="2014" height="994" alt="Bildschirmfoto 2026-04-13 um 12 38 52" src="https://github.com/user-attachments/assets/0aedce94-6a3d-4a3a-a3ab-2e4bc3eba578" />
+### Evidence viewer
+<img width="2014" height="994" alt="Evidence viewer" src="https://github.com/user-attachments/assets/0aedce94-6a3d-4a3a-a3ab-2e4bc3eba578" />
 
 
 
