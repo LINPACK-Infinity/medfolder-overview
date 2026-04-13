@@ -6,19 +6,13 @@ It is designed for technical evaluation and research workflows, not for diagnosi
 
 ## Screenshots
 
-![MedFolder AI workspace overview](https://github.com/user-attachments/assets/f9c13371-75af-4445-9bfc-79152fa5853c)
-
-<img width="1006" height="1126" alt="Bildschirmfoto 2026-04-13 um 12 32 31" src="https://github.com/user-attachments/assets/fcd8e3d2-8bf6-4588-9d3b-374402487534" />
-
-<img width="1006" height="1126" alt="Bildschirmfoto 2026-04-13 um 12 33 00" src="https://github.com/user-attachments/assets/5ed8e5ab-dbce-4205-bb8c-9e2bb37cc3dd" />
-
 <img width="1006" height="1126" alt="Bildschirmfoto 2026-04-13 um 12 33 52" src="https://github.com/user-attachments/assets/8cf20657-ebd0-47d5-977f-e9b889b93475" />
 
 <img width="1006" height="1126" alt="Bildschirmfoto 2026-04-13 um 12 34 25" src="https://github.com/user-attachments/assets/292d8c67-7912-4035-b616-dbd55edf37ed" />
 
 <img width="2014" height="994" alt="Bildschirmfoto 2026-04-13 um 12 38 52" src="https://github.com/user-attachments/assets/0aedce94-6a3d-4a3a-a3ab-2e4bc3eba578" />
 
-<img width="2014" height="994" alt="Bildschirmfoto 2026-04-13 um 12 38 06" src="https://github.com/user-attachments/assets/e29263e3-9492-4e0e-8b7d-f7aa3a289ee3" />
+
 
 
 
