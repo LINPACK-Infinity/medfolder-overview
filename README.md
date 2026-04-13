@@ -4,6 +4,10 @@ MedFolder AI is a local-first research prototype for turning medical PDFs into s
 
 It is designed for technical evaluation and research workflows, not for diagnosis, treatment, or routine clinical use.
 
+## Screenshot
+
+![MedFolder AI workspace overview](https://github.com/user-attachments/assets/f9c13371-75af-4445-9bfc-79152fa5853c)
+
 ## What it does
 
 - extracts structure from medical PDF documents
@@ -46,3 +50,5 @@ Outputs may be incomplete, inaccurate, or misleading and always require qualifie
 - architecture overview
 - feature walkthrough
 - development roadmap
+
+
